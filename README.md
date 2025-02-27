@@ -7,4 +7,4 @@ Watching a tutorial. . .
 
 
 ## Instructions:
-1. Open up index.html
+1. Open up index.html 
